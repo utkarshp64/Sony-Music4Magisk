@@ -49,7 +49,7 @@ LATESTARTSERVICE=false
 print_modname() {
   ui_print "***********************************"
   ui_print "    Sony Music app Magisk Module   "
-  ui_print "***********************************"
+  ui_print "********** by Utkarshp64 **********"
 }
 
 ##########################################################################################
