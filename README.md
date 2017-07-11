@@ -1,6 +1,10 @@
-## !! Please update this README.md file for online Repo submission !!
-You can edit your `README.md` within Github's online editor, it also has an preview button!  
-Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!  
+# !! Systemless Sony Music App !!
+This is a magisk module. It will install sony music app to any android device. Only requirement is that you need Magisk root. As this is magisk module you don't need to worry about system space. Magisk will install app to magisk.img which is mounted in your data partition... This is magic of MAGISK....!
+
+[Link to XDA thread:Sony Music app - Systemless Install](https://forum.xda-developers.com/apps/magisk/app-sony-music-app-systemless-install-t3596580)
+
+Goto ### XDA thread to get latest Sony Music App Magisk Module
+
 
 ## How to Create a Magisk Module
 1. Clone / download this repo
