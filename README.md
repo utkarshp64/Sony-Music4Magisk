@@ -1,16 +1,11 @@
 # !! Systemless Sony Music App !!
 This is a magisk module. It will install sony music app to any android device. Only requirement is that you need Magisk root. As this is magisk module you don't need to worry about system space. Magisk will install app to magisk.img which is mounted in your data partition... This is magic of MAGISK....!
 
-[Link to XDA thread:Sony Music app - Systemless Install](https://forum.xda-developers.com/apps/magisk/app-sony-music-app-systemless-install-t3596580)
+## [Link to XDA thread: Sony Music app - Systemless Install](https://forum.xda-developers.com/apps/magisk/app-sony-music-app-systemless-install-t3596580)
 
-Goto ### XDA thread to get latest Sony Music App Magisk Module
+### Goto XDA thread to get latest **Sony Music App Magisk Module**
 
-
-## How to Create a Magisk Module
-1. Clone / download this repo
-2. Open `config.sh`, follow the instructions written at the beginning of the file. You should at least change `config.sh` and `module.prop`
-3. Zip your files, the zipped file is a flashable zip for both Magisk Manager and custom recoveries
-4. Please check **Notes** for precautions
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ## How to Request a New Repo
 1. Fork [this repo](https://github.com/topjohnwu/magisk-module-template)
