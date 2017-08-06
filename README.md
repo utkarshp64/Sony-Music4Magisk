@@ -18,9 +18,9 @@
 By Sony Mobile Communications's APKMirror page"), **original and not tampered in any way**, check the MD5.
 
 # Credits:
-* Sony Mobile Communications - For Sony Muisc Application.
+* Sony Mobile Communications - For Sony Muisc Application
 
-* Magisk Developer - Topjohnwu (https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445 and https://play.google.com/store/apps/details?id=com.topjohnwu.magisk).
+* Magisk Developer - [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 ## ME for Making It:
 * [utkarshp64](https://forum.xda-developers.com/member.php?u=5186554 "Author's XDA profile")
