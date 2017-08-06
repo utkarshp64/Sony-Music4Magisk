@@ -1,7 +1,7 @@
 id=sony_music_app
 name=Sony Music app Magisk Module
-version=v1
-versionCode=4
+version=9.3.10.A.2.2 beta (19351554)arm
+versionCode=7
 author=utkarshp64
 description=This Magisk module will install systemless sony music application in any magisk supported device. Sony Music app - by Sony Mobile Communications.
 template=4
