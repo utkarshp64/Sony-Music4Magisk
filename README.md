@@ -1,5 +1,5 @@
 
-# !! Systemless Sony Music App !! 
+# !! Sony-Music4Magisk !!
 
 
 ## Introduction::
