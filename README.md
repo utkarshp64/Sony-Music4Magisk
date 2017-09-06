@@ -1,6 +1,9 @@
-
 # !! Sony-Music4Magisk !!
 
+<p align="center">
+<b> Sony-Music4Magisk </b><br>
+  <img src="https://i.imgur.com/jZakiOR.png">
+</p>
 
 ## Introduction::
 * Welcome to the source of Systemless Sony Music App. This Music application from Sony gives you a wonderful experience when listening to your music files. Import your music, arrange in playlists and just listen away. We(Sony Mobile Communications) optimize the sound to make it sound great and make sure little power is used, so you can listen for as long as you want. This is a magisk module. It will install sony music app to any android device.
