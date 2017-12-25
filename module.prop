@@ -4,4 +4,5 @@ version=9.3.11.A.0.3-19357699
 versionCode=9
 author=utkarshp64
 description=This Magisk module will install systemless sony music application in any magisk supported device. Sony Music app - by Sony Mobile Communications.
-template=1400
+minMagisk=1500
+
