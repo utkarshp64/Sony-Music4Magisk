@@ -1,7 +1,7 @@
 id=Sony-Music4Magisk
 name=Sony-Music4Magisk
-version=9.3.11.A.0.3-19357699
-versionCode=9
+version=9.3.12.A.0.2 (19365890)
+versionCode=10
 author=utkarshp64
 description=This Magisk module will install systemless sony music application in any magisk supported device. Sony Music app - by Sony Mobile Communications.
 minMagisk=1500
